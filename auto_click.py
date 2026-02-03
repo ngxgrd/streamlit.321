@@ -56,7 +56,7 @@ clean_old_logs()
 
 # 主逻辑开始
 try:
-    driver.get("https://onlyno999.streamlit.app/")
+    driver.get("http://streamlit123.nuon11.x10.mx/")
     print("已打开网页，等待页面加载 30 秒...")
     time.sleep(30)  # 初次加载等待
 
